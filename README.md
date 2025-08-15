@@ -1,4 +1,4 @@
-# 1. Matching Pointer Search - Arrays
+# 1. Pointer Matching  Search - Arrays
 Provide an array with a specific value and length to try to find them using their addresses to be more efficient in data manipulation
 
 💻 ✅
