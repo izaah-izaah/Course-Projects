@@ -4,7 +4,7 @@ Provide an array with a specific value and length to try to find them using poin
 # 2. Rational # Operator Overloading
 Overloads all basic arithemtic operators and istream ostream for custom dynamic data manipulation using static containers.
 
-# 3. Magic Square
+# 3. Magic Square Algorithm
 This project makes sure to organize random arrangements of a non-conflicting matrix as many times as possible.
 
 # 4. Linked List
@@ -15,3 +15,6 @@ Navigating through a search tree to find a particular number in the tree.
 
 # 6. Polymorphism
 Using polygon as an analogy for being able to use objects in a polymorphic inheritance.
+
+### Basic Fun Tasks
+Simple tasks for algorithm reference 
